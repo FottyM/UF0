@@ -683,6 +683,44 @@
                 "resourcePath": "objects\\obj_title\\obj_title.yy",
                 "resourceType": "GMObject"
             }
+        },
+        {
+            "Key": "9bb4e94e-f645-4787-acf9-20cd31ab7897",
+            "Value": {
+                "id": "0e6c384d-9386-4569-994f-a2dc53961211",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\\obj_enemypawn\\obj_enemypawn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fd78d4cf-0fc2-48d0-91b2-5bc699ad8bf1",
+            "Value": {
+                "id": "13a547aa-4f92-45c8-93b7-449fa2aa53a3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\\obj_spawner\\obj_spawner.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "room_order": [
